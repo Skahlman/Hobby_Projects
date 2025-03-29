@@ -1,0 +1,1 @@
+I decided to make an autonomous RC car equipped with sensors and microcontrollers. I've built and 3D printed everything myself and done heavy modifications to the base, which was created by Robaki. Some parts had to be re-designed to fit my requirements, and all CAD files are my designs, with some being inspired by the original Robak v2. 
